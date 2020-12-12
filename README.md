@@ -16,6 +16,6 @@ Neural networks are among the most popular machine learning algorithms out there
 
 If you would like to explore NNs in depth, [Nielsen's book](http://neuralnetworksanddeeplearning.com/) is a great start.
 
-NNs are plotted using [this tool.](http://alexlenail.me/NN-SVG/index.html)
+NNs in this challenge are plotted using [this tool.](http://alexlenail.me/NN-SVG/index.html)
 
 This challenge is prepared by [Mehmet Alican Noyan](https://twitter.com/malicannoyan).
